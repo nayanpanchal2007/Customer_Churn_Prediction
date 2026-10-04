@@ -1,0 +1,1 @@
+A notebook can be created from the modular src pipeline. The production workflow lives in src/ and app/.
